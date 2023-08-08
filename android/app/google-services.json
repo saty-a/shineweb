@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739618848459",
+    "project_id": "shineweb-e2a3b",
+    "storage_bucket": "shineweb-e2a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739618848459:android:0736bbbc115125d2b5a54e",
+        "android_client_info": {
+          "package_name": "com.example.shineweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739618848459-mfmcm8objf88c99e1c20ag6vs5qkeo6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6N61c6LmC3Yhp1pGJ6uWS2Cwn8enLrfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739618848459-mfmcm8objf88c99e1c20ag6vs5qkeo6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
